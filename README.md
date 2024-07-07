@@ -1,6 +1,6 @@
 <h3 align="left">My Discord</h3>
 
-[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/BLonicx)
+[![](https://skillicons.dev/icons?i=discord)]([https://discord.gg/BLonicx](https://discord.gg/PMFjPuFeqw))
 <br/>
 <br>
 ## 🚀〣 Coding-Langs:
