@@ -1,11 +1,11 @@
 <h3 align="left">My Discord</h3>
 
-[![](https://skillicons.dev/icons?i=discord)]([https://discord.gg/BLonicx](https://discord.gg/PMFjPuFeqw))
+[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/PMFjPuFeqw)]
 <br/>
 <br>
 ## 🚀〣 Coding-Langs:
 
-[![](https://skillicons.dev/icons?i=java,python,html,css,javascript,cs&perline=7)](https://Blonicx.github.io/)
+[![](https://skillicons.dev/icons?i=java,python,html,css,javascript,cs&perline=7)]
 
 ## 📈〣 Github Stats
 
