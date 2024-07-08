@@ -1,6 +1,9 @@
-<h3 align="left">My Discord</h3>
+<h3 align="left">Socials</h3>
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/PMFjPuFeqw)
+[![](https://skillicons.dev/icons?i=twitch)](https://www.twitch.tv/blonicx)
+[![](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@Blonicx)
+
 <br/>
 <br>
 ## 🚀〣 Coding-Langs:
