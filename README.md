@@ -2,8 +2,6 @@
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/PMFjPuFeqw)
 
-<br/>
-<br>
 ## 🚀〣 Coding-Langs:
 
 ![](https://skillicons.dev/icons?i=java,html,css,javascript&perline=7)
