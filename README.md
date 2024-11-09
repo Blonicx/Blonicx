@@ -4,7 +4,7 @@
 
 ## 🚀〣 Coding-Langs:
 
-![](https://skillicons.dev/icons?i=java,html,css,javascript&perline=7)
+![](https://skillicons.dev/icons?i=python,html,css,javascript&perline=7)
 
 ## 📈〣 Github Stats
 
