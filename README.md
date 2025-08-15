@@ -1,17 +1,20 @@
-<h3 align="left">Socials</h3>
+<h1 align="center">Hi 👋, I'm Blonicx</h1>
+<h3 align="center">A passionate developer from Germany</h3>
 
-[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/PMFjPuFeqw)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blonicx&label=Profile%20views&color=0e75b6&style=flat" alt="blonicx" /> </p>
 
-## 🚀〣 Coding-Langs:
+- 🔭 I’m currently working on [kux-lib](https://github.com/Blonicx/kux-lib)
 
-![](https://skillicons.dev/icons?i=python,kotlin,java&perline=7)
+- 🌱 I’m currently learning **kotlin, java, minecraft modding and plugin development**
 
-## 📈〣 Github Stats
+- 👨‍💻 All of my projects are available at [https://github.com/Blonicx](https://github.com/Blonicx)
 
-  <br/>
-    <p float="above">
-    <a href="https://github.com/Blonicx/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blonicx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/Blonicx/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blonicx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
-    <br/>
+- 📫 How to reach me **discord: @blonicx.**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blonicx&show_icons=true&locale=en&layout=compact" alt="blonicx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blonicx&show_icons=true&locale=en" alt="blonicx" /></p>
+
