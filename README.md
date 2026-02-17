@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blonicx&label=Profile%20views&color=0e75b6&style=flat" alt="blonicx" /> </p>
 
-- 🔭 I’m currently working on [CraftPlanet](https://github.com/Blonicx/CraftPlanet)
+- 🔭 I’m currently working on [CraftPlanet](https://github.com/Blonicx/CraftPlanet), [CraftLib](https://github.com/Blonicx/CraftLib)
 
 - 🌱 I’m currently learning **java, minecraft modding and plugin development**
 
